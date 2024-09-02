@@ -52,7 +52,7 @@ form.invalid::before {
   content: "";
   position: absolute;
   right: 14px;
-  background: url("./images/invalid.jpg") no-repeat center;
+  background: url("./images/invalid.png") no-repeat center;
   background-size: cover;
   width: 22px;
   height: 22px;
@@ -64,7 +64,7 @@ form.valid::before {
   content: "";
   position: absolute;
   right: 14px;
-  background: url("./images/valid.jpg") no-repeat center;
+  background: url("./images/valid.png") no-repeat center;
   background-size: cover;
   width: 22px;
   height: 22px;
